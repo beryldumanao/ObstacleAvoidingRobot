@@ -1,4 +1,4 @@
-# 🤖 Obstacle Avoiding Robotz
+# 🤖 Obstacle Avoiding Robot
 
 An autonomous mobile robot built with **Arduino Uno**, an **HC-SR04 ultrasonic sensor**, a **servo motor**, and an **L298N motor driver**. The robot measures the distance to objects in front of it and changes direction when an obstacle is detected.
 
